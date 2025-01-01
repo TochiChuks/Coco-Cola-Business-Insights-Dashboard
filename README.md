@@ -1,1 +1,3 @@
 # Coco-Cola-Business-Insights-Dashboard
+Developed an interactive dashboard using Excel to analyze and visualize key sales metrics for Coca-Cola. Leveraged pivot tables and pivot charts to identify the top 10 countries by revenue, the top 5 SKUs by units sold, the revenue distribution across sales channels, and the top 10 distributors by revenue. This project demonstrated my ability to transform raw sales data into actionable insights, supporting strategic decision-making for business growth.
+![Screenshot 2024-12-19 215706](https://github.com/user-attachments/assets/2f1f3f0e-3d3b-42e9-abe0-66efb969f037)
